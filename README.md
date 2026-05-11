@@ -12,8 +12,8 @@ python main.py
 
 
 ```
-
-
+![Screenshot der Voxel Engine - Fluss und Landschaft](<img width="1408" height="881" alt="Bildschirmfoto 2026-05-11 um 16 54 59" src="https://github.com/user-attachments/assets/7d5e2e2d-abd2-45ca-b612-093d7c16d972" />
+)
 
 ---
 
